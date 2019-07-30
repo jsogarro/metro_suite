@@ -1,0 +1,13 @@
+node_modules
+logs
+data
+yarn-error
+0x_ganache_snapshot
+lib
+.DS_Store
+.env
+build
+.ipynb_checkpoints
+yarn-error.log
+yarn.lock
+tmp
